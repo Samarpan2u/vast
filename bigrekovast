@@ -81,7 +81,7 @@ This XML file does not appear to have any style information associated with it. 
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ "https://ast.g-mana.online/bmedia-server/creatives/aea8c3d2-26ab-46bc-b9c8-b1622619c97a.mp4" ]]>
+<![CDATA[ https://ast.g-mana.online/bmedia-server/creatives/aea8c3d2-26ab-46bc-b9c8-b1622619c97a.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
