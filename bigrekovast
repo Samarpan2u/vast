@@ -1,6 +1,6 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="5ad4eef9-9644-45cc-828e-544a31dbb3bd">
+<Ad id="1234">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
@@ -12,7 +12,7 @@ This XML file does not appear to have any style information associated with it. 
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="5ad4eef9-9644-45cc-828e-544a31dbb3bd">
+<Creative id="1234">
 <Linear>
 <Duration>00:00:30</Duration>
 <TrackingEvents>
