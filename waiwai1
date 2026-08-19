@@ -1,18 +1,18 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="WAIWAI">
+<Ad id="WAIWAI2">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
 </AdSystem>
 <AdTitle>
-<![CDATA[ WAIWAI ]]>
+<![CDATA[ WAIWAI2 ]]>
 </AdTitle>
 <Impression>
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="WAIWAI">
+<Creative id="WAIWAI2">
 <Linear>
 <Duration>00:00:45</Duration>
 <TrackingEvents>
@@ -81,7 +81,7 @@ This XML file does not appear to have any style information associated with it. 
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://video.turncdn.com/content-data/2026_08/cd07631cd2834588b3d430da4785dfaf.mp4?aid=58362573 ]]>
+<![CDATA[ https://gcdn.2mdn.net/videoplayback/id/308397f7fcdf620d/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3920881222/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/44078E007BD0C802AAE79B6566EB2DB2476B1EDD.598BF2288224AF4F00C63A19AA01DF7C12E2B85A/key/ck2/file/file.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
