@@ -81,7 +81,7 @@ This XML file does not appear to have any style information associated with it. 
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://rcdn.kervinteractive.com/video/prod/01KST7AJR4BAMGJ5BB7KZ6DWGZ-720.mp4 ]]>
+<![CDATA[ https://video.turncdn.com/content-data/2026_08/cd07631cd2834588b3d430da4785dfaf.mp4?aid=58362573 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
